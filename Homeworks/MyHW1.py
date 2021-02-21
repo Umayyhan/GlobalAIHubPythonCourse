@@ -1,3 +1,8 @@
+#Explain your work
+#Generating a 3*3 matrix with 9 random prime numbers.(with #using the for loop)
+
+#***random numbers are generated between 0-50*****
+#Question 1
 from random import randint
 for i in range(3):
     for j in range(3):
